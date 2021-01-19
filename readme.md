@@ -1,8 +1,5 @@
 - [AI](#ai)
 - [Android](#android)
-- [Biology](#biology)
-- [Blockchain](#blockchain)
-- [Blog Aggregator](#blog-aggregator)
 - [Brain Computer Interface](#brain-computer-interface)
 - [C](#c)
 - [C++](#c++)
@@ -14,7 +11,6 @@
 - [Computer Science](#computer-science)
 - [CSS](#css)
 - [Data Science](#data-science)
-- [Design](#design)
 - [Functional Programming](#functional-programming)
 - [Games](#games)
 - [Go](#go)
@@ -42,20 +38,16 @@
 - [React](#react)
 - [Reverse Engineering](#reverse-engineering)
 - [Ruby](#ruby)
-- [Russian](#russian)
 - [Rust](#rust)
 - [Scala](#scala)
 - [Security](#security)
 - [Startups](#startups)
 - [Statistics](#statistics)
-- [Swift](#swift)
 - [Technology](#technology)
-- [V8 Engine](#v8-engine)
 - [Vim](#vim)
 - [Web](#web)
 - [WebGL](#webgl)
-- [Other](#other)
-- [Related](#related)
+
 
 ## AI
 
