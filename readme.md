@@ -1,7 +1,3 @@
-# Blogs [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists)
-
-_Please read [contribution guidelines](contributing.md) before contributing._
-
 - [AI](#ai)
 - [Android](#android)
 - [Biology](#biology)
@@ -74,18 +70,10 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 - [Joe Birch](https://medium.com/@hitherejoe)
 
-## Biology
-
-- [Bits of DNA](https://liorpachter.wordpress.com/) - Reviews and commentary on computational biology by Lior Pachter.
 
 ## Blockchain
 
 - [Karl Tech](https://karl.tech/)
-
-## Blog Aggregator
-
-- [KDnuggets](http://www.kdnuggets.com/)
-- [MLWave](http://mlwave.com/)
 
 ## Brain Computer Interface
 
@@ -136,13 +124,6 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Robert Chang](https://medium.com/@rchang) - Worked at Airbnb and Twitter.
 - [Variance Explained](http://varianceexplained.org/)
 
-## Design
-
-- [Domain Driven Design](http://dddweekly.com/)
-- [Frank Chimero](https://frankchimero.com/blog/)
-- [Nicole Harris](http://whoisnicoleharris.com/#writing)
-- [Willis Wilkinson](http://williamwilkinson.com/)
-
 ## Functional Programming
 
 - [Domen Kozar](https://www.domenkozar.com)
@@ -174,10 +155,6 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Nsf](https://nsfdev.wordpress.com/)
 - [Scott Mansfield](http://blog.sgmansfield.com/)
 - [William Kennedy](https://www.goinggo.net/)
-
-## Hacking
-
-- [SpritesMods](http://spritesmods.com/)
 
 ## Haskell
 
@@ -499,13 +476,6 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Alyssa.is](https://alyssa.is/)
 - [Javivelasco](http://javivelasco.com/blog/)
 
-## Russian
-
-- [Andrew Romanov](http://andrew-r.ru/notes/)
-- [Canonium](https://canonium.com)
-- [Fedor Borshev](https://borshev.com/)
-- [vas3k](http://vas3k.ru/)
-
 ## Rust
 
 - [Edunham](http://edunham.net/)
@@ -536,30 +506,11 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 - [David Robinson](http://varianceexplained.org/posts/)
 
-## Swift
-
-- [Ankit](http://ankit.im)
-- [Ash Furrow](https://ashfurrow.com/)
-- [Eon Codes](http://eon.codes)
-- [Fresh Swift](http://freshswift.net/)
-- [Joe Groff](http://duriansoftware.com/joe/index.html) - Works on Swift languge at Apple.
-- [Michael Kyriacou](http://codeforcaffeine.com/)
-- [NSHipster](http://nshipster.com/)
-- [Oleg Dreyman](https://medium.com/@olegdreyman)
-- [Khoa](https://github.com/onmyway133/blog/issues) - Blogs with GitHub issues.
-- [Silver fox](https://silverfox.be/blog/)
-- [Swift by Sundell](https://www.swiftbysundell.com/)
-- [Vinh nguyen](https://ninjapro.wordpress.com/)
-- [Yoans Kolb](http://yonaskolb.com)
 
 ## Technology
 
 - [Startechery](https://stratechery.com/)
 - [Tech Specs](https://techspecs.blog/)
-
-## V8 Engine
-
-- [Wingolog](https://wingolog.org/)
 
 ## Vim
 
@@ -579,25 +530,6 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 ## WebGL
 
 - [Brandon Jones](http://blog.tojicode.com/)
-
-## Other
-
-- [Daring Fireball](https://til.hashrocket.com/)
-- [Dave Lee](http://heydave.org/)
-- [Dean Sherwood](http://deansherwood.com/deansblog)
-- [Disregard Everything I Say](http://disregardeverythingisay.com/)
-- [Pavel Miroshenko](https://pavel.miroshnichen.co/)
-- [Steve Pavlina](https://www.stevepavlina.com/blog/)
-- [Today I Learned](https://til.hashrocket.com/)
-
-## Related
-
-- [Data Science Blogs](https://github.com/rushter/data-science-blogs)
-- [Data Science Blogs](https://www.cybrhome.com/topic/data-science-blogs)
-- [Engineering Blogs of Companies](https://www.cybrhome.com/topic/engineering-blogs-of-companies)
-- [Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
-- [Programming Blog List](http://danluu.com/programming-blogs/)
-- [Awesome Personal Blogs](https://github.com/jkup/awesome-personal-blogs)
 
 [![CC4](https://img.shields.io/badge/license-CC4-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/licenses/by/4.0/)
 [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists)
